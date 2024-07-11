@@ -1,12 +1,10 @@
 import React from 'react';
-import './src/index.css';
+import '../index.css';
 
-function Home() {
+export default function Home() {
   return (
     <div className='home'>
       <h1>Home</h1>
     </div>
   );
 }
-
-export default Home;

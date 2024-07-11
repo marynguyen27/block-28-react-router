@@ -1,7 +1,8 @@
 * {
-  font-family: arial, sans-serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   margin: 0;
 }
+
 body,
 body > div {
   height: 100vh;
@@ -28,14 +29,17 @@ body > div {
   align-items: center;
   justify-content: center;
 }
+
 .red {
   background-color: #b05f6d;
   color: white;
 }
+
 .blue {
   background-color: #275db3;
   color: white;
 }
+
 .home {
   background-color: rgb(218, 78, 213);
 }
